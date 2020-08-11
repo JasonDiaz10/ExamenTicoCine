@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/ExamenCine/RegistrarPelicula.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/EliminarPelicula.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/include/header.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/controller/PeliculaController.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/model/PeliculaModel.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/view/Peliculas/crear.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/ModificarPelicula.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/view/Peliculas/editar.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/view/Peliculas/listar.php</file>
+            <file>file:/C:/xampp/htdocs/ExamenCine/index.php</file>
+        </group>
+    </open-files>
+</project-private>
